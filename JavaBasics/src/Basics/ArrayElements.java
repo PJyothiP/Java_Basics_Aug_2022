@@ -21,6 +21,8 @@ public class ArrayElements {
 			j++;
 		}
 		
+		
+		
 		//foreach
 		for (String string123 : str) {
 			System.out.println(string123.toUpperCase());
